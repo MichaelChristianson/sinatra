@@ -5,7 +5,7 @@
 ### Unstable release
 
 The next major version of Sinatra will be released from the master branch.
-
+I MADE A CHANGE
 * Current proposed major release: 2.0.0
 
 ### Stable release
